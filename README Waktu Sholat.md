@@ -1,3 +1,4 @@
+# Deskripsi 
 Aplikasi ini menghitung waktu-waktu salat harian dan bulanan menggunakan pendekatan fisika astronomi. Setiap waktu shalat seperti Subuh, Terbit, Dzuhur, Ashar, Maghrib, dan Isya, dihitung berdasarkan posisi Matahari terhadap bumi, koreksi lintang-bujur, serta perbedaan zona waktu.
 Aplikasi ini menyediakan antarmuka sederhana bagi pengguna untuk memilih:
 - Kota
