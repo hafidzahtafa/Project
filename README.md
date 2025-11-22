@@ -1,1 +1,1 @@
-Aplikasi waktu sholat dibuat dengan menghitung setiap waktu sholat dengan pendekatan fisika astronomi kemudian informasi tersebut digunakan menjadi aplikasi. Aplikasi tersebut berisi pilihan kota, tanggal, bulan (masehi atau hijriyah), dan tahun untuk user untuk mengetahui waktu sholat yang diinginkan.
+
